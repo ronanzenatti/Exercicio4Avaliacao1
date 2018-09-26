@@ -11,8 +11,9 @@ namespace Exercicio4Avaliacao
             try
             {
                 String nomeProduto;
-                int quantidade;
-                double valorProduto, valorTotal;
+                int quantidade;                double valorProduto, valorTotal;
+
+                Console.WriteLine(" ******* Exercicio 4 - Avaliação 1 ******");
 
                 Console.Write("Digite o nome do produto: ");
                 nomeProduto = Console.ReadLine();

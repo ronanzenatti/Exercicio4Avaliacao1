@@ -1,0 +1,6 @@
+c:\users\ronan.zenatti\documents\visual studio 2013\Projects\Exercicio4Avaliacao\Exercicio4Avaliacao\bin\Debug\Exercicio4Avaliacao.exe.config
+c:\users\ronan.zenatti\documents\visual studio 2013\Projects\Exercicio4Avaliacao\Exercicio4Avaliacao\bin\Debug\Exercicio4Avaliacao.exe
+c:\users\ronan.zenatti\documents\visual studio 2013\Projects\Exercicio4Avaliacao\Exercicio4Avaliacao\bin\Debug\Exercicio4Avaliacao.pdb
+c:\users\ronan.zenatti\documents\visual studio 2013\Projects\Exercicio4Avaliacao\Exercicio4Avaliacao\obj\Debug\Exercicio4Avaliacao.csprojResolveAssemblyReference.cache
+c:\users\ronan.zenatti\documents\visual studio 2013\Projects\Exercicio4Avaliacao\Exercicio4Avaliacao\obj\Debug\Exercicio4Avaliacao.exe
+c:\users\ronan.zenatti\documents\visual studio 2013\Projects\Exercicio4Avaliacao\Exercicio4Avaliacao\obj\Debug\Exercicio4Avaliacao.pdb
